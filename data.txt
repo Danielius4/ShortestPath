@@ -1,0 +1,9 @@
+Vilnius Riga 2
+Vilnius Oslo 1
+Madrid Riga 3
+Oslo Madrid 5
+Berlin Rio 2
+Tokyo Nairobi 7
+Nairobi Denver 6
+Denver Madrid 8
+Tokyo Vilnius 7
